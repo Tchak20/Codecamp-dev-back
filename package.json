@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Bastou TCHAKOURA",
+	"keywords": [ "freecodecamp", "bastou", "tchak20" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
